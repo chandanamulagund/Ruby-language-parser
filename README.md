@@ -15,14 +15,14 @@ while condition do
 end
 ```
 
-### -do-while loop:
+### *do-while loop:
 ```
 loop do
   # Code to be executed at least once
   break unless condition
 end
 ```
-### -for loop:
+### +for loop:
 
 ```
 for item in iterable do
