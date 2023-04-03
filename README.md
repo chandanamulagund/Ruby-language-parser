@@ -3,7 +3,7 @@
 This is designed using context free grammar in automata formal languages. In automata theory, a CFG (Context-Free Grammar) is a type of formal grammar used to describe the syntax or structure of a programming language or other formal language. A CFG consists of a set of production rules that define how symbols can be combined to form strings in the language.
 
 
-### [know more about context free grammar](https://www.freecodecamp.org/news/context-free-grammar/)
+### Know more about context free grammar(https://www.freecodecamp.org/news/context-free-grammar/)
 
 
 
