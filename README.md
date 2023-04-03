@@ -36,12 +36,7 @@ Run these commands to clone and use my repo !
 
 ```
 git clone https://github.com/chandanamulagund/Ruby-language-parser.git
-
-```
-```
 cd Ruby-language-parser
-```
-```
 python files_in_directory.py
 ```
 
