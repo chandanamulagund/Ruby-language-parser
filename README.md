@@ -2,9 +2,9 @@
 
 This is a simple syntax parser in Ruby that can parse and evaluate code written in Python programming language. The parser can currently handle the following control structures:
 
-1.while loops
-2.do-while loops
-3.for loops
+* while loops
+* do-while loops
+* for loops
 
 # Control Structures in Ruby 
 
