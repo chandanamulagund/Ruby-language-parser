@@ -6,26 +6,29 @@ This is a simple syntax parser in Ruby that can parse and evaluate code written 
 2.do-while loops
 3.for loops
 
-## Control Structures in Ruby 
-# while loop:
+# Control Structures in Ruby 
 
+### while loop:
+'''
 while condition do
   # Code to be executed while condition is true
 end
+'''
 
-# do-while loop:
-
+### do-while loop:
+'''
 loop do
   # Code to be executed at least once
   break unless condition
 end
+'''
+### for loop:
 
-# for loop:
-
+'''
 for item in iterable do
   # Code to be executed for each item in the iterable
 end
-    
+'''  
 
 
 
